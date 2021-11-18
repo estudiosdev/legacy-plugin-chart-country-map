@@ -23,8 +23,6 @@ logs/
 build/
 coverage/
 dist/
-esm/
-lib/
 public/
 node_modules/
 tmp/
